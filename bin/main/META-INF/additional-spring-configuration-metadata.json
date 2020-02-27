@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "config.uploads.path",
+    "type": "java.lang.String",
+    "description": "A description for 'config.uploads.path'"
+  },
+  {
+    "name": "collection.name",
+    "type": "java.lang.String",
+    "description": "A description for 'collection.name'"
+  },
+  {
+    "name": "db.port",
+    "type": "java.lang.String",
+    "description": "A description for 'db.port'"
+  },
+  {
+    "name": "db.host",
+    "type": "java.lang.String",
+    "description": "A description for 'db.host'"
+  },
+  {
+    "name": "config.base.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'config.base.endpoint'"
+  },
+  {
+    "name": "cliente.server.host",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.server.host'"
+  },
+  {
+    "name": "cliente.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.server.port'"
+  },
+  {
+    "name": "config.base.cliente.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'config.base.cliente.endpoint'"
+  }
+]}
